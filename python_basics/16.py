@@ -1,2 +1,2 @@
-x = [x*x*x for x in range(1,11)]
+x=map(lambda x:x*x*x,range(0,11))
 print(x)
