@@ -1,0 +1,7 @@
+root=rootabc
+daemon=daemonabc
+bin=binabc
+#sys=#sysabc
+
+sync=syncabc
+games=gamesabc
